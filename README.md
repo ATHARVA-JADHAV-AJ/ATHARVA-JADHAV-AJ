@@ -3,7 +3,7 @@
 *"It's not about making a machine that mimics; it's about making a machine that invents."*
 
 ### 🕰️ The Current Chapter
-I am currently a forth-semester student navigating the world of CSE-AIML. Most days, you'll find me at the intersection of academic theory and "Jugaad" engineering. When I'm not in a lecture, I’m likely teaching physics or academic concepts to students a job that keeps my own fundamentals sharp.
+I am currently a forth-semester student navigating the world of CSE-AIML. Most days, you'll find me at the intersection of academic theory and "Jugaad" engineering. When I'm not in a lecture, I’m likely teaching physics or academic concepts to students a job that keeps my own fundamentals sharp.alos have got a opportunity to be the campus ambasador of algoquest 2026( national lvl hackathon in association with sarc iit bombay)
 
 ### 🤖 The North Star: Project "Noisy Boy"
 My journey isn't headed toward a corporate ladder; it's headed toward a single goal: **Noisy Boy**. 
